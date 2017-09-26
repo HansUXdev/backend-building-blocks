@@ -1,0 +1,16 @@
+{
+  "name": "authentication-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "authenticationController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "mongoose": "^4.11.13",
+    "passport": "^0.4.0"
+  }
+}

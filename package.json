@@ -1,0 +1,23 @@
+{
+  "name": "backend-building-blocks",
+  "version": "1.0.0",
+  "description": "A collection of commonly used backend controllers and models for use with express and foundation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansUXdev/backend-building-blocks.git"
+  },
+  "keywords": [
+    "express",
+    "foundation"
+  ],
+  "author": "HANS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansUXdev/backend-building-blocks/issues"
+  },
+  "homepage": "https://github.com/HansUXdev/backend-building-blocks#readme"
+}
